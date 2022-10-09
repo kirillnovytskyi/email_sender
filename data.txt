@@ -1,0 +1,6 @@
+!!! CLEAR THIS FILE AFTER YOU READ THE INFORMATION AND FILL IT WITH YOUR EMAILS DATA !!!
+
+Parser in code is configured in the way, that you need to use exact format of your data to make it work
+
+The format is:
+FirstName LastName emailExample@example.com
