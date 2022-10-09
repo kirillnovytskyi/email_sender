@@ -1,4 +1,4 @@
-# email_sender
+# Email Sender
 NodeJs app to send emails for free
 
 Check data.txt before starting a program. 
